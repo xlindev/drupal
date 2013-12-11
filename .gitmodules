@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/drupal_resourcespace"]
+	path = sites/all/modules/drupal_resourcespace
+	url = xq1003@git.drupal.org:sandbox/xq1003/2151065.git
